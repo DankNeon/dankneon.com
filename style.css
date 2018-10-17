@@ -1,0 +1,40 @@
+* {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: monospace;
+    background-color: #282A2D;
+}
+
+.main-header {
+    background-color: #33363A;
+    padding: 5% 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.orange {
+    color: #FD971F;
+}
+
+.max-width {
+    max-width: 1000px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.img-responsive {
+    width: 100%;
+}
+
+.logo {
+    width: 110px;
+}
