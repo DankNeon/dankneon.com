@@ -25,6 +25,10 @@ body {
     color: #FD971F;
 }
 
+.main-title {
+    padding: 2% 5%;
+}
+
 .max-width {
     max-width: 1000px;
     margin: 0 auto;
@@ -36,5 +40,24 @@ body {
 }
 
 .logo {
-    width: 110px;
+    min-width: 110px;
+    width: 50%;
+    max-width: 330px;
+}
+
+.theme-section {
+    padding: 2% 5%;
+}
+
+.theme-section:after {
+    content: '';
+    display: block;
+    margin: 16px auto;
+    width: 52px;
+    border: 6px dashed #AE81FF;
+}
+
+.theme-link {
+    text-align: center;
+    color: #78D9EC;
 }
