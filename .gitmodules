@@ -4,3 +4,6 @@
 [submodule "vim"]
 	path = vim
 	url = https://github.com/DankNeon/vim.git
+[submodule "iterm"]
+	path = iterm
+	url = https://github.com/DankNeon/iterm.git
