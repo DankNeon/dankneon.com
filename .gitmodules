@@ -7,3 +7,6 @@
 [submodule "iterm"]
 	path = iterm
 	url = https://github.com/DankNeon/iterm.git
+[submodule "sublime"]
+	path = sublime
+	url = https://github.com/DankNeon/sublime.git
