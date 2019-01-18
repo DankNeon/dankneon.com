@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="877" height="529" version="1.1">
+    <defs>
+        <path id="path-0" fill-rule="evenodd" d="M430,381 L313,381 L313,264 L430,264 L430,303 L352,303 L352,342 L430,342 L430,381Z" opacity="1"/>
+        <path id="path-1" fill-rule="evenodd" d="M352,391 L313,391 L313,430 L352,430 L352,469 L430,469 L430,430 L352,430 L352,391Z" opacity="1"/>
+        <path id="path-2" fill-rule="evenodd" d="M60,40 L60,157 L99,157 L99,79 L176,79 L176,157 L215,157 L215,79 L176,79 L176,40 L60,40Z" opacity="1"/>
+        <path id="path-3" fill-rule="evenodd" d="M60,167 L99,167 L99,206 L60,206 L60,167 L60,167ZM176,206 L99,206 L99,245 L176,245 L176,206 L176,206ZM176,206 L176,167 L215,167 L215,206 L176,206 L176,206Z" opacity="1"/>
+        <path id="path-4" fill-rule="evenodd" d="M565,264 L488,264 L488,303 L449,303 L449,381 L488,381 L488,303 L565,303 L565,381 L604,381 L604,303 L565,303 L565,264Z" opacity="1"/>
+        <path id="path-5" fill-rule="evenodd" d="M449,391 L488,391 L488,430 L449,430 L449,391 L449,391ZM565,430 L488,430 L488,469 L565,469 L565,430 L565,430ZM565,430 L565,391 L604,391 L604,430 L565,430 L565,430Z" opacity="1"/>
+        <path id="path-6" fill-rule="evenodd" d="M388,79 L350,79 L350,40 L234,40 L234,157 L388,157 L388,79 L388,79ZM349,79 L349,118 L273,118 L273,79 L349,79 L349,79Z" opacity="1"/>
+        <path id="path-7" fill-rule="evenodd" d="M273,245 L273,167 L234,167 L234,245 L273,245 L273,245ZM349,167 L349,245 L388,245 L388,167 L349,167 L349,167Z" opacity="1"/>
+        <path id="path-8" fill-rule="evenodd" d="M446,79 L485,79 L485,118 L446,118 L446,157 L407,157 L407,40 L446,40 L446,79 L446,79ZM485,118 L485,157 L524,157 L524,118 L485,118 L485,118ZM601,40 L601,157 L562,157 L562,40 L601,40 L601,40Z" opacity="1"/>
+        <path id="path-9" fill-rule="evenodd" d="M697,118 L659,118 L659,40 L620,40 L620,157 L697,157 L697,118 L697,118ZM697,118 L697,79 L735,79 L735,40 L774,40 L774,79 L736,79 L736,118 L697,118Z" opacity="1"/>
+        <path id="path-10" fill-rule="evenodd" d="M446,245 L446,167 L407,167 L407,245 L446,245 L446,245ZM523,206 L562,206 L562,245 L601,245 L601,167 L523,167 L523,206 L523,206Z" opacity="1"/>
+        <path id="path-11" fill-rule="evenodd" d="M620,167 L620,245 L659,245 L659,167 L620,167 L620,167ZM774,206 L736,206 L736,167 L697,167 L697,206 L735,206 L735,245 L774,245 L774,206 L774,206Z" opacity="1"/>
+        <path id="path-12" fill-rule="evenodd" d="M139,303 L178,303 L178,342 L139,342 L139,381 L100,381 L100,264 L139,264 L139,303 L139,303ZM178,342 L178,381 L217,381 L217,342 L178,342 L178,342ZM294,264 L294,381 L255,381 L255,264 L294,264 L294,264Z" opacity="1"/>
+        <path id="path-13" fill-rule="evenodd" d="M139,469 L139,391 L100,391 L100,469 L139,469 L139,469ZM216,430 L255,430 L255,469 L294,469 L294,391 L216,391 L216,430 L216,430Z" opacity="1"/>
+        <path id="path-14" fill-rule="evenodd" d="M662,303 L701,303 L701,342 L662,342 L662,381 L623,381 L623,264 L662,264 L662,303 L662,303ZM701,342 L701,381 L740,381 L740,342 L701,342 L701,342ZM817,264 L817,381 L778,381 L778,264 L817,264 L817,264Z" opacity="1"/>
+        <path id="path-15" fill-rule="evenodd" d="M662,469 L662,391 L623,391 L623,469 L662,469 L662,469ZM739,430 L778,430 L778,469 L817,469 L817,391 L739,391 L739,430 L739,430Z" opacity="1"/>
+    </defs>
+    <g opacity="1">
+        <g opacity="1">
+            <use fill="rgb(255,71,110)" fill-opacity="1" xlink:href="#path-0"/>
+        </g>
+        <g opacity="1">
+            <use fill="rgb(255,71,110)" fill-opacity="1" xlink:href="#path-1"/>
+        </g>
+        <g opacity="1">
+            <use fill="rgb(1,247,247)" fill-opacity="1" xlink:href="#path-2"/>
+        </g>
+        <g opacity="1">
+            <use fill="rgb(1,247,247)" fill-opacity="1" xlink:href="#path-3"/>
+        </g>
+        <g opacity="1">
+            <use fill="rgb(255,71,110)" fill-opacity="1" xlink:href="#path-4"/>
+        </g>
+        <g opacity="1">
+            <use fill="rgb(255,71,110)" fill-opacity="1" xlink:href="#path-5"/>
+        </g>
+        <g opacity="1">
+            <use fill="rgb(1,247,247)" fill-opacity="1" xlink:href="#path-6"/>
+        </g>
+        <g opacity="1">
+            <use fill="rgb(1,247,247)" fill-opacity="1" xlink:href="#path-7"/>
+        </g>
+        <g opacity="1">
+            <use fill="rgb(1,247,247)" fill-opacity="1" xlink:href="#path-8"/>
+        </g>
+        <g opacity="1">
+            <use fill="rgb(1,247,247)" fill-opacity="1" xlink:href="#path-9"/>
+        </g>
+        <g opacity="1">
+            <use fill="rgb(1,247,247)" fill-opacity="1" xlink:href="#path-10"/>
+        </g>
+        <g opacity="1">
+            <use fill="rgb(1,247,247)" fill-opacity="1" xlink:href="#path-11"/>
+        </g>
+        <g opacity="1">
+            <use fill="rgb(255,71,110)" fill-opacity="1" xlink:href="#path-12"/>
+        </g>
+        <g opacity="1">
+            <use fill="rgb(255,71,110)" fill-opacity="1" xlink:href="#path-13"/>
+        </g>
+        <g opacity="1">
+            <use fill="rgb(255,71,110)" fill-opacity="1" xlink:href="#path-14"/>
+        </g>
+        <g opacity="1">
+            <use fill="rgb(255,71,110)" fill-opacity="1" xlink:href="#path-15"/>
+        </g>
+    </g>
+</svg>
