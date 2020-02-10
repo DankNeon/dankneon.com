@@ -10,3 +10,6 @@
 [submodule "sublime"]
 	path = sublime
 	url = https://github.com/DankNeon/sublime.git
+[submodule "hyper"]
+	path = hyper
+	url = https://github.com/DankNeon/hyper
