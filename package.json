@@ -1,0 +1,12 @@
+{
+  "name": "dankneon.com",
+  "version": "1.0.0",
+  "description": "The homepage for Dank Neon",
+  "main": "index.js",
+  "repository": "git@github.com:DankNeon/dankneon.com.git",
+  "author": "Conlin Durbin <conlin@lessonly.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "marked": "^0.8.0"
+  }
+}
